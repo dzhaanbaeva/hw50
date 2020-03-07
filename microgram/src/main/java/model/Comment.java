@@ -8,14 +8,26 @@ import java.time.LocalDateTime;
 @Document
 public class Comment{
 
+
+
     @Id
+    private String id;
     private String comment;
     private LocalDateTime dateTime;
 
-
-    public Comment(String comment, LocalDateTime dateTime) {
+    public Comment(String id, String comment, LocalDateTime dateTime) {
+        this.id = id;
         this.comment = comment;
         this.dateTime = dateTime;
+    }
+
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     public String getComment() {
