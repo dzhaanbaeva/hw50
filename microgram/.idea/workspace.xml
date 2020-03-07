@@ -1,41 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d685f26e-2fab-4dd6-b760-830b2aad1ac8" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d685f26e-2fab-4dd6-b760-830b2aad1ac8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microgram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kz/attractorschool/microgram/MicrogramApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/MicrogramApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1TqPpMEsd6sOKucqQqa7PZlL0YP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="MicrogramApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microgram" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="kz.attractorschool.microgram.MicrogramApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="util.MicrogramApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -52,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574184834108</updated>
       <workItem from="1574184837088" duration="362000" />
+      <workItem from="1583578015809" duration="869000" />
     </task>
     <servers />
   </component>
@@ -62,5 +69,47 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583578057519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583578057519" />
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1583578788315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583578788315" />
+    <state width="1280" height="161" key="GridCell.Tab.0.bottom" timestamp="1583578945673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583578945673" />
+    <state width="1280" height="161" key="GridCell.Tab.0.center" timestamp="1583578945673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583578945673" />
+    <state width="1280" height="161" key="GridCell.Tab.0.left" timestamp="1583578945673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583578945673" />
+    <state width="1280" height="161" key="GridCell.Tab.0.right" timestamp="1583578945673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583578945673" />
+    <state width="1280" height="161" key="GridCell.Tab.1.bottom" timestamp="1583578945674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583578945674" />
+    <state width="1280" height="161" key="GridCell.Tab.1.center" timestamp="1583578945674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583578945674" />
+    <state width="1280" height="161" key="GridCell.Tab.1.left" timestamp="1583578945673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583578945673" />
+    <state width="1280" height="161" key="GridCell.Tab.1.right" timestamp="1583578945674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1280" height="161" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583578945674" />
   </component>
 </project>
