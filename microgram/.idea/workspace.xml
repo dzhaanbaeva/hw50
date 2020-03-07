@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d685f26e-2fab-4dd6-b760-830b2aad1ac8" name="Default Changelist" comment="">
+    <list default="true" id="d685f26e-2fab-4dd6-b760-830b2aad1ac8" name="Default Changelist" comment="change microgram and add Commit model">
+      <change beforePath="$PROJECT_DIR$/../dot_gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574184834108</updated>
       <workItem from="1574184837088" duration="362000" />
-      <workItem from="1583578015809" duration="1997000" />
+      <workItem from="1583578015809" duration="2673000" />
     </task>
     <task id="LOCAL-00001" summary="change microgram and add Commit model">
       <created>1583579073858</created>
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583579073858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change microgram and add Commit model">
+      <created>1583580227057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583580227057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,10 +86,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="551" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583578057519" />
-    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1583579070645">
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1583580548062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583579070645" />
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583580548062" />
     <state width="1280" height="161" key="GridCell.Tab.0.bottom" timestamp="1583580103841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,9 +122,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1280" height="161" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583580103841" />
-    <state x="295" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583579081173">
+    <state x="295" y="97" key="Vcs.Push.Dialog.v2" timestamp="1583580232484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583579081173" />
+    <state x="295" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583580232484" />
   </component>
 </project>
