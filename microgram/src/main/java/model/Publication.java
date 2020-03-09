@@ -10,15 +10,16 @@ public class Publication {
 
     @Id
     private  String id;
+    private String userId;
     private  String images;
     private  String description;
     private LocalDateTime dateTime;
 
-    public Publication(String id, String images, String description, LocalDateTime dateTime) {
-        this.id = id;
+    public Publication(String userId, String images, String description) {
+        this.userId = userId;
         this.images = images;
         this.description = description;
-        this.dateTime = dateTime;
+        dateTime = LocalDateTime.now();
     }
 
     public String getId() {
@@ -28,6 +29,14 @@ public class Publication {
     public void setId(String id) {
         this.id = id;
     }
+    public String getUserId() {
+        return userId;
+    }
+
+    public void setUserId(String userId) {
+        this.userId = userId;
+    }
+
 
     public String getImages() {
         return images;

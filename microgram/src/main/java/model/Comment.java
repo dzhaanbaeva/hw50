@@ -7,18 +7,16 @@ import java.time.LocalDateTime;
 
 @Document
 public class Comment{
-
-
-
     @Id
     private String id;
+    private String userId;
     private String comment;
     private LocalDateTime dateTime;
 
-    public Comment(String id, String comment, LocalDateTime dateTime) {
-        this.id = id;
+    public Comment(String userId, String comment) {
+        this.userId = userId;
         this.comment = comment;
-        this.dateTime = dateTime;
+        dateTime = LocalDateTime.now();
     }
 
 
@@ -28,6 +26,13 @@ public class Comment{
 
     public void setId(String id) {
         this.id = id;
+    }
+    public String getUserId() {
+        return userId;
+    }
+
+    public void setUserId(String userId) {
+        this.userId = userId;
     }
 
     public String getComment() {
